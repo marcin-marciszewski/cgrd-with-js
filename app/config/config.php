@@ -10,7 +10,7 @@ define('DB_NAME', 'cgrd');
 define('DB_PORT', '3306');
 
 define('APPROOT', dirname(dirname(__FILE__)));
-// App Root
+
 define('URLROOT', $rootUrl);
 
 define('SITENAME', 'CGRD');
