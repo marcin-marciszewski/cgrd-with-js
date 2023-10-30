@@ -1,6 +1,6 @@
 ### To run the project Apache and MySQL servers are needed.
 
-#### Deployed version: https://phpstack-1151150-4006325.cloudwaysapps.com/
+#### Deployed version: https://phpstack-1156493-4027505.cloudwaysapps.com/
 
 ### Database creation:
 
