@@ -56,8 +56,8 @@ class News extends Controller
                     flash('news_message', 'News was successfully changed!', 'message message-success');
                 }
             }
-            redirect('news');
         }
+        redirect('news');
     }
 
     public function delete($id)
